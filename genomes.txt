@@ -1,0 +1,6 @@
+genome cenX
+trackDb trackDb.txt
+twoBitPath cenX.2bit
+organism Human 
+defaultPos CHM13.cenX:1-9000000
+
