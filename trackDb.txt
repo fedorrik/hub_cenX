@@ -52,7 +52,7 @@ maxItems 100000
 
 track horHap
 type bigBed
-bigDataUrl bb/horHap.bb
+bigDataUrl bb/horhap.bb
 shortLabel horHap
 longLabel horHap
 itemRgb on
