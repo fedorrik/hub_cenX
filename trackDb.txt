@@ -62,3 +62,16 @@ visibility dense
 type bigBed 9
 itemRgb on
 maxItems 100000
+
+track horHap
+type bigBed
+bigDataUrl bb/horhap_gg.bb
+shortLabel horHap
+longLabel horHap
+itemRgb on
+group Centromere
+priority 6
+visibility dense
+type bigBed 9
+itemRgb on
+maxItems 100000
