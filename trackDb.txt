@@ -63,11 +63,11 @@ type bigBed 9
 itemRgb on
 maxItems 100000
 
-track horHap
+track horHap_gg
 type bigBed
 bigDataUrl bb/horhap_gg.bb
-shortLabel horHap
-longLabel horHap
+shortLabel horHap_gg
+longLabel horHap (GREY haps grey)
 itemRgb on
 group Centromere
 priority 6
